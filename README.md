@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jiru1997
 - 👀 I’m interested in design verification and algorithm
 - 🌱 I’m currently learning UVM
-- 💞️ I’m actively seeking a job of design verification
+- 💞️ Qualcomm design verification engineer
 - 📫 How to reach me phone:(1)5714643524
 
 <!---
