@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jiru1997
-- 👀 I’m interested in design verification and algorithm
+- 👋 Hi, I’m jiru xu
+- 👀 I’m interested in SOC design verification and algorithm
 - 🌱 I’m currently learning UVM
 - 💞️ Qualcomm design verification engineer
 - 📫 How to reach me phone:(1)5714643524
