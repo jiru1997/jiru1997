@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jiru xu
 - 👀 I’m interested in SOC design verification and algorithm
-- 🌱 I’m currently learning UVM
+- 🌱 I’m currently learning to be a full silicon engineer
 - 💞️ Qualcomm design verification engineer
 - 📫 How to reach me phone:(1)5714643524
 
