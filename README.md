@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jiru xu
 - 👀 I’m interested in AR & VR & XR & next generation computation platform
 - 🌱 I’m currently learning hardware design verification, data science and algorithm
-- 💞️ Qualcomm design verification engineer
+- 💞️ dreamer believer achiever
 - 📫 How to reach me: email jiruxu@usc.edu
 
 <!---
