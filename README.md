@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jiru xu
-- 👀 I’m interested in computer vision & AR & VR & XR & video codec
-- 🌱 I’m currently learning to be a full silicon engineer
+- 👀 I’m interested in AR & VR & XR & next generation computation platform
+- 🌱 I’m currently learning hardware design verification, data science and algorithm
 - 💞️ Qualcomm design verification engineer
 - 📫 How to reach me: email jiruxu@usc.edu
 
