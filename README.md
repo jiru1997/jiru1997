@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jiru xu
+- 👋 Hi, I’m 小小太空人
 - 👀 I’m interested in AR & VR & XR & next generation computation platform
 - 🌱 I’m currently learning hardware design verification, data science and algorithm
 - 💞️ dreamer believer achiever
