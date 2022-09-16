@@ -1,12 +1,11 @@
 
-> 每一个生命来到这世界，都注定要改变这个世界. —— 罗永浩
+**Github Stats:**
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/66343787/178163917-4be55820-f628-4260-8ecd-24ac176fe811.png">
+<p align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=jiru1997&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiru1997&count_private=true&theme=dracula">
 
-<!---
-jiru1997/jiru1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+</p>
 
 
