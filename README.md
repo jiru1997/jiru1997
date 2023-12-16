@@ -5,4 +5,15 @@
 
 </p>
 
-
+- Bad architecture causes more problems than bad code.
+- You will spend more time thinking than coding.
+- The best programmers are always building things.
+- There’s always a better way.
+- Code reviews by your peers will make all of you better.
+- Fewer features for better code is always the right answer in the end.
+- If it’s not tested, it doesn’t work.
+- Don’t reinvent the wheel, library code is there to help.
+- Code that’s hard to understand is hard to maintain.
+- Code that’s hard to maintain is next to useless.
+- Always know how your business makes money, that determines who gets paid what.
+- If you want to feel important as a software developer, work at a tech company.
